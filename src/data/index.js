@@ -80,8 +80,8 @@ export const projects = [
     tags: ["JavaScript", "API Integration", "CSS", "HTML"],
     imageUrl:
       "https://images.pexels.com/photos/2448749/pexels-photo-2448749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    demoUrl: "https://example.com",
-    codeUrl: "https://github.com/example",
+    demoUrl: "https://weatheraaps.netlify.app/",
+    codeUrl: "https://github.com/sandeep8084/weatherApp",
   },
   {
     id: 4,
